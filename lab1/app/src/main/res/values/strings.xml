@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="author_name">Author:</string>
+    <string name="year_name">Year of publishing:</string>
+    <string name="title_sel_name">Selected items</string>
+    <string name="sel_author_name">Author: —</string>
+    <string name="sel_year_name">Year: —</string>
+</resources>

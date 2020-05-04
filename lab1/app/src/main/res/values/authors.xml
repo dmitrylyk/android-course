@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="authors">
+        <item></item>
+        <item>Ernest Hemingway</item>
+        <item>William Shakespeare</item>
+        <item>J.R.R. Tolkien</item>
+        <item>Stephen King</item>
+    </string-array>
+</resources>
